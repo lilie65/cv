@@ -20,7 +20,7 @@ width:100%;
 
 body {
     font-family: sans-serif;
-    font-size: 16px;
+    font-size: 13px;
     line-height: 20px;
     color: black;
     background-color: black;
@@ -38,9 +38,9 @@ div#page {
 
 /**Nav**/
 nav#nav {
+    background-color: var(--primary);
     max-width: 30%;
     padding-top: 40px;
-    background-color: var(--primary);
 }
 
 #fond {
