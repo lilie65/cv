@@ -1,5 +1,5 @@
 :root {
-    --primary: #AB47F9;
+    --primary: #155FBF;
     --secondary: black;
 }
 
@@ -23,7 +23,7 @@ body {
     font-size: 13px;
     line-height: 20px;
     color: black;
-    background-color: black;
+    background-color: #CDC7D9;
 }
 
 div#page {
