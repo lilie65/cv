@@ -5,7 +5,7 @@
     body {
     
         font-size: 13px;
-        line-height:13px;
+         line-height:2em; 
     }
     #page{
         max-width: 700px;
@@ -28,12 +28,12 @@
         justify-content: center;
         background-color: var(--primary);
        width:334%;
-       height:640px;  
+       height:880px;  
     }
 
     header{
         position:absolute;
-        margin-top: -770px;
+        margin-top: -1020px;
         left:40%;
     }
     
@@ -50,33 +50,28 @@
 .couleur{
     border-bottom: 4px solid var(--primary);
 }
+
+
 }
 @media only screen and (max-width: 320px) {
     body{
         background-color: white;
-    }
-    main section{
-        padding:0 8px;
-        line-height:2em;
-    }
-    p{
         font-size: 16px;
-        line-height:2em;
-        
+        line-height:2em;   
     }
 
 #order{
     background-color: var(--primary);
     background-size:cover;
-    width:360%;
-    height:880px;
+    width:370%;
+    height:1060px;
     margin-top:60px;
     
 }
 header{
-    font-size:11px;
+    font-size:12px;
     
-    margin-top:-1030px;
+    margin-top:-1230px;
 }
 
 }
