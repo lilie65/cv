@@ -1,5 +1,5 @@
 :root {
-    --primary: #155FBF;
+    --primary: #5F2D7D;
     --secondary: black;
 }
 
@@ -12,8 +12,7 @@
 }
 
 html,
-body
-{
+body {
 min-height: 100%;
 width:100%;
 }
@@ -36,16 +35,18 @@ div#page {
 }
 
 
+
 /**Nav**/
 nav#nav {
     background-color: var(--primary);
     max-width: 30%;
-    padding-top: 40px;
+    
 }
 
 #fond {
     max-width: 80%;
     margin: 0 auto 20px;
+    padding-top:30px;
 }
 
 #fond img {
@@ -55,6 +56,7 @@ nav#nav {
 }
 
 #nav section{
+
     width:100%;
 }
 
@@ -97,10 +99,9 @@ nav#nav {
 
 #icons .icon span {
     position: absolute;
-    top: -160%;
-    left: -40%;
-    min-width: 120px;
-    padding: 8px;
+    right:1px;
+    padding: 8px ;
+    writing-mode: vertical-rl;
     background-color: var(--secondary);
     color: var(--primary);
     border-radius: 10px;
@@ -113,12 +114,15 @@ nav#nav {
 #icons .icon:hover span {
     opacity: 1;
     transform: translateY(-50%);
-}
+}*/
 
 /**Main**/
 div#main {
     width: 70%;
     padding: 40px 40px 40px 40px;
+}
+ #titre2{
+    display:none;
 }
 
 header  {
@@ -145,6 +149,28 @@ section h2 i {
     padding:30px 10px 10px 0;
     color: var(--primary);
    
+}
+.formation{
+    display:flex;
+    justify-content: space-between;
+     
+  
+}
+.align1{
+    margin-top: 5%;
+    text-align: center;
+    word-wrap: break-word;
+    display: inline-block;
+    width:15%;
+
+}
+.align2{
+    display:inline-block;
+    
+    width: 80%;
+    
+    
+    
 }
 
 section h2 { 
