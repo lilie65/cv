@@ -4,7 +4,7 @@
 }
 
 *{
-    
+
     padding: 0;
     margin:0;
     box-sizing: border-box;
@@ -13,8 +13,8 @@
 
 html,
 body {
-min-height: 100%;
-width:100%;
+    min-height: 100%;
+    width:100%;
 }
 
 body {
@@ -39,8 +39,7 @@ div#page {
 /**Nav**/
 nav#nav {
     background-color: var(--primary);
-    max-width: 30%;
-    
+    max-width: 30%; 
 }
 
 #fond {
@@ -55,7 +54,7 @@ nav#nav {
     border-radius: 100%;
 }
 
-#nav section{
+#nav section {
 
     width:100%;
 }
@@ -114,83 +113,84 @@ nav#nav {
 #icons .icon:hover span {
     opacity: 1;
     transform: translateY(-50%);
-}*/
+    }*/
 
-/**Main**/
-div#main {
-    width: 70%;
-    padding: 40px 40px 40px 40px;
-}
- #titre2{
-    display:none;
-}
+    /**Main**/
+    div#main {
+        width: 70%;
+        padding: 40px 40px 40px 40px;
+    }
+    #titre2 {
+        display:none;
+    }
 
-header  {
-    text-align: center;
-    line-height: 30px;
-    margin-top: 30px;
-}
-.dev{
-    border-bottom: 2px solid var(--primary);
-    
-}
+    header  {
+        text-align: center;
+        line-height: 30px;
+        margin-top: 30px;
+    }
+    .dev {
+        border-bottom: 2px solid var(--primary);
 
-
-.prenom {
-    color: var(--primary);
-    line-height: 2em;
-}
-main section{
-    padding:20px 60px;
-}
+    }
 
 
-section h2 i {
-    padding:30px 10px 10px 0;
-    color: var(--primary);
-   
-}
-.formation{
-    display:flex;
-    justify-content: space-between;
-     
-  
-}
-.align1{
-    margin-top: 5%;
-    text-align: center;
-    word-wrap: break-word;
-    display: inline-block;
-    width:15%;
-
-}
-.align2{
-    display:inline-block;
-    
-    width: 80%;
-    
-    
-    
-}
-
-section h2 { 
-    
-    border-bottom: 2px solid var(--primary);
-    letter-spacing: 1px;
-    padding:40px 10px 10px 8px;
-
-}
-section h3{
-    padding:20px 0 6px 0;
-}
-section ul{
-    list-style-type: none;
-}
+    .prenom {
+        color: var(--primary);
+        line-height: 2em;
+    }
+    main section{
+        padding:20px 60px;
+    }
 
 
-/** Utils **/
+    section h2 i {
+        padding:30px 10px 10px 0;
+        color: var(--primary);
 
-.center {
-    text-align: center;
-}
+    }
+    .formation{
+        display:flex;
+        justify-content: space-between;
+
+
+    }
+    .align1{
+        margin-top: 20px;
+        text-align: center;
+        word-wrap: break-word;
+        display: inline-block;
+        width:15%;
+
+    }
+    .align2{
+
+        display:inline-block;
+
+        width: 80%;
+
+
+
+    }
+
+    section h2 { 
+
+        border-bottom: 2px solid var(--primary);
+        letter-spacing: 1px;
+        padding:40px 10px 10px 8px;
+
+    }
+    section h3{
+        padding:20px 0 6px 0;
+    }
+    section ul{
+        list-style-type: none;
+    }
+
+
+    /** Utils **/
+
+    .center {
+        text-align: center;
+    }
 
