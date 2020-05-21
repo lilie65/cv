@@ -195,3 +195,6 @@ nav#nav {
     .far.fa-hand-point-right{
         color:var(--primary);
     }
+    .couleur{
+        color:black;
+    }
