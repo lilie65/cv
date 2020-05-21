@@ -1,6 +1,3 @@
-
-
-
 @media only screen and (max-width: 767px) {
    
 
@@ -24,7 +21,7 @@
     }
 
     #titre2 {
-        display:initial;
+        display:block;
         text-align: center;
         line-height: 30px;
         margin-top: 30px;
@@ -63,6 +60,12 @@
     .align2 {
         width:auto;
     }
+    #icons .icon span {
+     writing-mode: vertical-rl;
+    }
+    button{
+        margin-top: 150px;
+    }
 }
 
 @media only screen and (max-width: 320px) {
@@ -72,5 +75,6 @@
         font-size: 16px;
         line-height:2em;
     }
+    
 
 }

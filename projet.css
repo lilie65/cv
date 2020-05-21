@@ -1,5 +1,5 @@
 :root {
-    --primary: #5F2D7D;
+    --primary: #7A59E7;
     --secondary: black;
 }
 
@@ -40,6 +40,7 @@ div#page {
 nav#nav {
     background-color: var(--primary);
     max-width: 30%; 
+
 }
 
 #fond {
@@ -100,7 +101,6 @@ nav#nav {
     position: absolute;
     right:1px;
     padding: 8px ;
-    writing-mode: vertical-rl;
     background-color: var(--secondary);
     color: var(--primary);
     border-radius: 10px;
@@ -113,7 +113,7 @@ nav#nav {
 #icons .icon:hover span {
     opacity: 1;
     transform: translateY(-50%);
-    }*/
+    }
 
     /**Main**/
     div#main {
@@ -157,8 +157,6 @@ nav#nav {
     }
     .align1{
         margin-top: 20px;
-        text-align: center;
-        word-wrap: break-word;
         display: inline-block;
         width:15%;
 
@@ -193,4 +191,7 @@ nav#nav {
     .center {
         text-align: center;
     }
-
+    .fas.fa-hand-point-right,
+    .far.fa-hand-point-right{
+        color:var(--primary);
+    }
