@@ -1,0 +1,187 @@
+:root {
+    --primary: #7A59E7;
+    --secondary: black;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    min-height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    color: black;
+    background-color: #CDC7D9;
+}
+
+div#page {
+    display: flex;
+    width: 100%;
+    max-width: 1024px;
+    min-height: 100%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+
+
+/**Nav**/
+nav#nav {
+    background-color: var(--primary);
+    max-width: 30%;
+}
+
+#fond {
+    max-width: 80%;
+    margin: 0 auto 20px;
+    padding-top: 30px;
+}
+
+    #fond img {
+        width: 100%;
+        border-radius: 100%;
+    }
+
+#nav section {
+    width: 100%;
+}
+
+    #nav section h2 {
+        text-align: center;
+        letter-spacing: 2px;
+        padding: 10px ;
+        background-color: var(--secondary);
+        color: var(--primary);
+    }
+
+
+#icons {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+    #icons .icon {
+        position: relative;
+    }
+
+
+        #icons .icon i {
+            transition: all .2s linear;
+        }
+
+        #icons .icon:hover i {
+            color: var(--secondary);
+            transform: scale(2);
+        }
+
+        #icons .icon span {
+            position: absolute;
+            right: 1px;
+            background-color: var(--secondary);
+            color: var(--primary);
+            border-radius: 15px;
+            text-align: center;
+            opacity: 0;
+            transform: translateY(-80%);
+            transition: all .2s linear;
+        }
+
+        #icons .icon:hover span {
+            opacity: 1;
+            transform: translateY(-50%);
+        }
+
+/**Main**/
+div#main {
+    width: 70%;
+    padding: 40px 40px 40px 40px;
+}
+
+#titre2 {
+    display: none;
+}
+
+header {
+    text-align: center;
+    line-height: 30px;
+    margin-top: 30px;
+}
+
+.dev {
+    border-bottom: 2px solid var(--primary);
+}
+
+
+.prenom {
+    color: var(--primary);
+    line-height: 2em;
+}
+
+main section {
+    padding: 20px 60px;
+}
+
+
+section h2 i {
+    padding: 30px 10px 10px 0;
+    color: var(--primary);
+}
+
+.formation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.align1 {
+    margin-top: 20px;
+    display: inline-block;
+    width: 15%;
+}
+
+.align2 {
+    display: inline-block;
+    width: 80%;
+}
+
+section h2 {
+    border-bottom: 2px solid var(--primary);
+    letter-spacing: 1px;
+    padding: 40px 10px 10px 8px;
+}
+
+section h3 {
+    padding: 20px 0 6px 0;
+}
+
+section ul {
+    list-style-type: none;
+}
+
+
+/** Utils **/
+
+.fas.fa-hand-point-right,
+.far.fa-hand-point-right {
+    color: var(--primary);
+}
+
+.couleur {
+    color: black;
+    text-decoration: none;
+}
+.center {
+    display: block;
+    list-style-type: none;
+    text-align: center;
+    padding:5px;
+}
