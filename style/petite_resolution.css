@@ -1,71 +1,68 @@
 @media only screen and (max-width: 767px) {
-   
+
 
     body {
         font-size: 13px;
-        line-height:2em;
-        text-align: center;
+        line-height: 2em;
     }
 
     div#page {
 
         width: 100%;
-        display:flex;
+        display: flex;
         flex-direction: column;
     }
 
+/*nav*/
     nav#nav {
         min-width: 100%;
         display: flex;
         flex-direction: column;
     }
 
-    #titre2 {
-        display:block;
-        text-align: center;
-        line-height: 30px;
-        margin-top: 30px;
-        margin-bottom: 30px;
-    }
-
-    #titre {
-        display:none;
+    .agencer1 {
+        position: static;
     }
 
     #nav ul {
-        line-height:1.3em;
-        text-align:center;
-    }
-
-    main section {
-        padding:0 35px;
-    }
-
-    #section {
+        line-height: 1.3em;
         text-align: center;
     }
 
-    #fond {
-        width:45%;
+    #icons .icon span {
+        writing-mode: vertical-rl;
     }
 
-    .formation {
+    button {
+        margin-top: 150px;
+    }
+
+    /*main*/
+    main section {
+        padding: 0 35px;
+    }
+
+    .recommandation {
         flex-direction: column;
     }
 
-    .align1 {
-        width:auto;
+    .center {
+        text-align: start;
+        width: 60%;
+        margin-left: 90px;
     }
 
-    .align2 {
-        width:auto;
+    /*header*/
+    #titre {
+        display: none;
     }
-    #icons .icon span {
-     writing-mode: vertical-rl;
+    #titre2 {
+        display: block;
+        text-align: center;
+        line-height: 30px;
+        padding: 40px;
     }
-    button{
-        margin-top: 150px;
-    }
+
 }
 
 @media only screen and (max-width: 320px) {
@@ -73,8 +70,8 @@
     body {
         background-color: white;
         font-size: 16px;
-        line-height:2em;
+        line-height: 2em;
     }
-    
+
 
 }
