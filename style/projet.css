@@ -110,18 +110,18 @@ div#main {
     padding: 40px 40px 40px 40px;
 }
 
-.dev {
-    border-bottom: 3px solid #00adb5;
-}
+
 
 main section {
     padding: 20px 60px;
 }
 
-
-section h2 i {
-    padding: 30px 10px 10px 0;
+.fas.fa-graduation-cap,
+.fas.fa-briefcase,
+.fas.fa-pencil-alt {
     color: #00adb5;
+    font-size:30px;
+    margin-right: 20px;
 }
 
 .formation {
@@ -145,12 +145,6 @@ section h2 i {
     width: 70%;
 }
 
-section h2 {
-    border-bottom: 2px solid #00adb5;
-    letter-spacing: 1px;
-    padding: 40px 10px 10px 8px;
-}
-
 section h3 {
     padding: 20px 0 6px 0;
 }
@@ -164,10 +158,17 @@ section ul {
     justify-content: space-between;
     padding: 30px;
 }
+.aligner{
+    border-bottom: 2px solid #00adb5;
+    letter-spacing: 1px;
+    padding: 40px 10px 10px 8px;
+    display:flex;
+    justify-content: flex-start;
+}
 
 /*header*/
 header {
-    padding:30px 60px;
+    padding: 30px 60px;
 }
 
 #titre2 {
@@ -177,6 +178,9 @@ header {
 .prenom {
     color: #00adb5;
     line-height: 2em;
+}
+.dev {
+    border-bottom: 3px solid #00adb5;
 }
 
 
