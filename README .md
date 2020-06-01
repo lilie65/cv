@@ -4,7 +4,7 @@ Créer un cv pour le projet OpenClassroom
 ----------------------------------------------------
 rendez-vous sur [ma Page](https://lilie65.github.io/cv/) !
 
-![cv](https://user-images.githubusercontent.com/64195562/82997649-efb3b000-a006-11ea-90fc-d0dcdf4bfb2c.png)
+![cv](https://user-images.githubusercontent.com/64195562/83441978-b2588380-a447-11ea-88c1-6b66a5ec938d.png)
 
 Traveaux effectué:
 
