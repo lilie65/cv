@@ -1,0 +1,245 @@
+[33mcommit 4f71191628a87af9201abe3bea6aecb38f4b1864[m[33m ([m[1;36mHEAD -> [m[1;32mcss2[m[33m, [m[1;31morigin/css[m[33m, [m[1;32mcss[m[33m)[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Mon Jun 1 18:36:50 2020 +0200
+
+    indenté
+
+[33mcommit 3f836c9fd15d92aca99bb9623991de3de6bd1632[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Mon Jun 1 18:33:58 2020 +0200
+
+    amelioration flex
+
+[33mcommit 2d0e7c6d93bb1d0b4b97b5d62a954f18198568a7[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mhtml[m[33m)[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Mon Jun 1 16:41:01 2020 +0200
+
+    photos onglet/changement cv
+
+[33mcommit 21a1cf6e63a68bf7fa93c20c53222fa1d2da4004[m[33m ([m[1;31morigin/newtest[m[33m, [m[1;32mnewtest[m[33m)[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Mon Jun 1 14:43:19 2020 +0200
+
+    indenté
+
+[33mcommit 8a9adda324a2d52e36e558ca2ce2a2f0ea75f115[m[33m ([m[1;31morigin/changement[m[33m, [m[1;32mchangement[m[33m)[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Mon Jun 1 14:24:52 2020 +0200
+
+    réorganisation cv
+
+[33mcommit 28e6a6f4b68eb3a3dbba9e2d2eadab096734a486[m[33m ([m[1;32mmaster[m[33m)[m
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Wed May 27 10:54:56 2020 +0200
+
+    Update README .md
+    
+    ![cv](https://user-images.githubusercontent.com/64195562/82998306-dd864180-a007-11ea-8e54-dbab16eed4fc.png)
+    Mon cv
+
+[33mcommit d9f7ff2de0e0c0ac31c0cde4d56ca4e052f977eb[m
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Tue May 26 20:02:46 2020 +0200
+
+    Update README .md
+
+[33mcommit a671ecc3298271a2129b4f0f021efab257c37d69[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Tue May 26 19:43:48 2020 +0200
+
+    suppression README.md doublon
+
+[33mcommit 04ee022fb4dec393976758eb6783b64ea7428257[m
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Tue May 26 18:58:17 2020 +0200
+
+    Update README.md
+
+[33mcommit 2b9a25565218dd3ae43bf65160ceb9b62322fb1d[m
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Tue May 26 18:42:50 2020 +0200
+
+    Create README.md
+
+[33mcommit 2fc137f5067eaa4eaeb29f09d3c20e7441e2c5f9[m
+Merge: c2f7847 0fcf6ce
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Tue May 26 18:41:05 2020 +0200
+
+    Merge pull request #8 from lilie65/readme
+    
+    deleted dossier
+
+[33mcommit 0fcf6ce8f2566537c52dd2c5bcb36122254d592b[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Tue May 26 18:38:32 2020 +0200
+
+    deleted dossier
+
+[33mcommit c2f7847c69afed2d19352106fa46b6bf0f8b5256[m
+Merge: a3bc9b5 a9a478b
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Tue May 26 18:17:00 2020 +0200
+
+    Merge pull request #7 from lilie65/final
+    
+    Final
+
+[33mcommit a9a478bb033d3fcec0b33fe0560139398fca6a4f[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Tue May 26 18:12:17 2020 +0200
+
+    mise à jour html/css readme ajouté
+
+[33mcommit 0e96edfa050f57ecf60f5c2edca72b1ff4342cc0[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Tue May 26 16:07:57 2020 +0200
+
+    remise du readme
+
+[33mcommit a3bc9b5ed010bdbedb2f876954349c19c4913f38[m
+Merge: 17a7e1b ca3cbc7
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Thu May 21 15:52:37 2020 +0200
+
+    Merge pull request #6 from lilie65/couleur
+    
+    Couleur
+
+[33mcommit ca3cbc7b5efc451ccdd7c1f529f18b120f403619[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Thu May 21 15:46:47 2020 +0200
+
+    changement de couleur
+
+[33mcommit 61931447b13ddbcb0a9084da3695d9453b54d971[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Thu May 21 15:34:52 2020 +0200
+
+    modification
+
+[33mcommit 17a7e1b72b78efc0287daa19029977219129b1f5[m
+Merge: 7461100 e5cfd1c
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Thu May 21 15:26:51 2020 +0200
+
+    Merge pull request #4 from lilie65/update
+    
+    Update
+
+[33mcommit e5cfd1cebde7bb9eddbe81ebe7f94adb5be0d9c4[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Thu May 21 15:24:24 2020 +0200
+
+    update
+
+[33mcommit 922a0e2fbae858e5609466a871af3d60561924c1[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Wed May 20 18:24:28 2020 +0200
+
+    mise à jour
+
+[33mcommit 746110076d9c930b3b8fc86e147b9e11b27e5a32[m
+Merge: 24c0424 9702dfc
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Sun May 17 18:53:01 2020 +0200
+
+    Merge pull request #3 from lilie65/moveReadmeFile
+    
+    Move readme file
+
+[33mcommit 9702dfcf153b7331058266a0fe41a52eaedabe2a[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Sun May 17 18:52:03 2020 +0200
+
+    supression fichier readme.md
+
+[33mcommit 43b5786d330eaff1a100401bab4f2805f5f786c4[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Sun May 17 18:49:38 2020 +0200
+
+    move readme.md file
+
+[33mcommit 24c0424964a433c5066010a43729f2759fe888b8[m
+Merge: fb57701 ec3847e
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Sun May 17 18:32:42 2020 +0200
+
+    Merge pull request #2 from lilie65/deploy
+    
+    Deploy
+
+[33mcommit ec3847e8f57ef1749afbc7c24c018b3c498696dc[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Sun May 17 18:29:09 2020 +0200
+
+    remove remote file
+
+[33mcommit 14ea416b386861980f2b009ff0389f893d2d3a72[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Sun May 17 18:22:18 2020 +0200
+
+    change cv.html to index.html
+
+[33mcommit 3c7bfea0840f26499b3c06a5099eefb99bc054b5[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Sun May 17 18:19:52 2020 +0200
+
+    new branch
+
+[33mcommit fb577010769893f17c81b072cab9dde895a00d9b[m
+Merge: 018ccd3 7963d1f
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Wed May 13 18:04:15 2020 +0200
+
+    Merge pull request #1 from lilie65/javascript
+    
+    Javascript -> master
+
+[33mcommit 7963d1f00529a801ce4866f7c7527ea44fb920b9[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Wed May 13 18:02:03 2020 +0200
+
+    reindentation
+
+[33mcommit f4261470891f87a7d7155e575b878572bbed272c[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Wed May 13 17:43:02 2020 +0200
+
+    revu de code
+
+[33mcommit 8681c5f1ed603ad1a3f3e68cb529910046a191df[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Tue May 12 14:45:15 2020 +0200
+
+    changement de couleur
+
+[33mcommit b220451cec2f5433be25da34a96f0d405cb0f198[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Tue May 12 14:22:33 2020 +0200
+
+    mise à jour couleur
+
+[33mcommit 56c12bb2ed00bb59c1f092ee4dac5ac5d8e88d47[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Tue May 12 09:48:46 2020 +0200
+
+    test sublime texte
+
+[33mcommit 6c71ed88c14b19c712e8bde80f5aa9e141c000ac[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Mon May 11 14:46:30 2020 +0200
+
+    test branches
+
+[33mcommit 018ccd340efe610b12c3fceb0678945d42a91ffa[m
+Author: lilie65 <celine.kerdoud@gmail.com>
+Date:   Mon May 11 14:39:35 2020 +0200
+
+    ajout des fichier du projet
+
+[33mcommit cedf365d765c80776e8d7d81bef4950652457920[m
+Author: lilie65 <64195562+lilie65@users.noreply.github.com>
+Date:   Thu Apr 23 11:09:55 2020 +0200
+
+    Initial commit
