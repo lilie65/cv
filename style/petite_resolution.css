@@ -1,5 +1,5 @@
 @media only screen and (max-width: 767px) {
-/* for the mobile and the tablet */
+    /* for the mobile and the tablet */
     body {
         font-size: 13px;
         line-height: 2em;
@@ -67,7 +67,6 @@
 
 @media only screen and (max-width: 320px) {
     /* for the mobile small*/
-
     body {
         background-color: white;
         font-size: 14px;
