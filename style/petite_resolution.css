@@ -1,6 +1,5 @@
 @media only screen and (max-width: 767px) {
-
-
+/* for the mobile and the tablet */
     body {
         font-size: 13px;
         line-height: 2em;
@@ -44,6 +43,7 @@
 
     .recommandation {
         flex-direction: column;
+        text-align: center;
     }
 
     .center {
@@ -66,14 +66,16 @@
 }
 
 @media only screen and (max-width: 320px) {
+    /* for the mobile small*/
 
     body {
         background-color: white;
         font-size: 14px;
         line-height: 2em;
     }
-    .center{
-        text-align:center;
+
+    .center {
+        text-align: center;
         margin-left: 50px;
     }
 
