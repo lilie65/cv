@@ -1,5 +1,6 @@
 @media only screen and (max-width: 767px) {
     /* for the mobile and the tablet */
+
     body {
         font-size: 13px;
         line-height: 2em;
@@ -38,7 +39,8 @@
 
     /*main*/
     main section {
-        padding: 0 35px;
+
+        padding: 0 10px;
     }
 
     .recommandation {
@@ -48,8 +50,6 @@
 
     .center {
         text-align: start;
-        width: 60%;
-        margin-left: 90px;
     }
 
     /*header*/
@@ -67,18 +67,42 @@
 
 @media only screen and (max-width: 320px) {
     /* for the mobile small*/
+
     body {
         background-color: white;
-        font-size: 14px;
+        font-size: 15px;
         line-height: 2em;
     }
 
     .center {
         text-align: center;
-        margin-left: 50px;
     }
 
+    /*main*/
     main section {
-        padding: 20px 10px;
+        padding: 30px 10px;
+    }
+
+    div#main {
+        width: 100%;
+    }
+
+    .formation {
+        justify-content: flex-start;
+        flex-direction: column;
+    }
+
+    .align1 {
+        width: 90%;
+        margin-left: 20px;
+    }
+
+    .align2 {
+        width: 90%;
+        margin-left: 20px;
+    }
+
+    .align {
+        position: absolute;
     }
 }
